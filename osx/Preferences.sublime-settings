@@ -1,0 +1,17 @@
+{
+	"font_options":
+	[
+    "subpixel_antialias"
+  ],
+  "font_size": 14.0,
+	"rulers":
+  [
+  	120
+  ],
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
